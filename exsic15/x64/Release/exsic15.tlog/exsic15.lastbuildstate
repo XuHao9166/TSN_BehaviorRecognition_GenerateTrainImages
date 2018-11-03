@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|x64|D:\opencv实践_GPU\exsic18  批量生成稠密光流图 (批量读取运行文件夹中的全部视频、获取每一视频名称、创建文件夹、重命名保存图片)\|
