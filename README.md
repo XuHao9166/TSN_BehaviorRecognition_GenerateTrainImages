@@ -15,6 +15,11 @@ Temporal Segment Networks (TSN) 项目的githob 地址为：https://github.com/y
 
 The githob address of the Temporal Segment Networks (TSN) : https://github.com/yjxiong/temporal-segment-networks
 
-在TSN的项目中并没有给出TSN前向计算的C++ 代码，因此我本人给出对应的c++代码: 
+在TSN的项目中并没有给出TSN前向计算的C++ 代码，因此我本人给出对应的c++代码: https://github.com/XuHao9166/TSN_BehaviorRecognition_ForwardCalculation
 
-The C++ code for TSN forward calculation is not given in the TSN project, so I will give the corresponding code here:
+The C++ code for TSN forward calculation is not given in the TSN project, so I will give the corresponding code here: https://github.com/XuHao9166/TSN_BehaviorRecognition_ForwardCalculation
+
+
+本项目依赖的环境： OpenCV3.4.0_cuda  
+
+The environment the project depends on: OpenCV3.4.0_cuda  
